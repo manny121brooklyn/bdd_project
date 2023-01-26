@@ -1,4 +1,7 @@
 myvenv/
 venv/
-.pytest_case/
+.pytest_cache/
 */__pycache__
+/logs/
+/reports/
+/geckodriver.log
