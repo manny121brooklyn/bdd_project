@@ -15,7 +15,7 @@ def browser():
     driver.implicitly_wait(10)
 
     yield
-        driver.quit()
+    driver.quit()
 
 # Steps
 def test_start_homepage():
